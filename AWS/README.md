@@ -9,6 +9,8 @@
 ### IAMユーザーのセキュリティ強化
 
 * IAMユーザーのパスワードポリシー設定
+  * Security HubのIAMコントロールを参照
+  * https://docs.aws.amazon.com/ja_jp/securityhub/latest/userguide/iam-controls.html
 
 ### コスト管理
 
