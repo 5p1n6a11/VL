@@ -15,6 +15,11 @@
 
 [^iam-controls]:https://docs.aws.amazon.com/ja_jp/securityhub/latest/userguide/iam-controls.html
 
+#### 検出
+
+* 脅威検出のためにGuardDuutyの有効化
+  * 各リージョンでの有効化を実施
+
 ### コスト管理
 
 * IAM ユーザーおよびロールによる請求情報へのアクセスの有効化
