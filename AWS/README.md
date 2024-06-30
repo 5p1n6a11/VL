@@ -15,16 +15,16 @@
 
 [^iam-controls]:https://docs.aws.amazon.com/ja_jp/securityhub/latest/userguide/iam-controls.html
 
-#### 検出
+#### AWS環境における脅威検出
 
-* 脅威検出のためにGuardDuutyの有効化
+* GuardDuutyの有効化
   * 各リージョンでの有効化を実施
 
 ### コスト管理
 
 * IAM ユーザーおよびロールによる請求情報へのアクセスの有効化
 * Cost Explorerの有効化
-*  予算の作成
+* 予算の作成
 
 ### 管理者用IAMユーザー作成
 
