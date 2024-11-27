@@ -20,4 +20,6 @@ systemctl status sliver
 
 https://github.com/BishopFox/sliver
 
+https://sliver.sh/docs?name=Getting+Started
+
 https://sliver.sh/tutorials
