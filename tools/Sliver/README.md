@@ -2,11 +2,15 @@
 
 ## インストール
 
+* 依存パッケージのインストール
+* バイナリのダウンロード
+* サービスの起動
+
 ```shell
 curl https://sliver.sh/install | sudo bash
 ```
 
-## `sliver`サービスの起動確認
+## サービスの起動確認
 
 ```shell
 systemctl status sliver
